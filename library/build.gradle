@@ -28,7 +28,7 @@ android {
 dependencies {
     compile 'com.android.support:appcompat-v7:25.1.0'
 
-    compile 'com.google.android.exoplayer:exoplayer:+'
+    compile 'com.google.android.exoplayer:exoplayer:r2.1.0'
 
     compile fileTree(dir: 'libs', include: ['*.jar'])
     androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
