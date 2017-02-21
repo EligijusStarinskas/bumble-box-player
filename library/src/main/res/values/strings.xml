@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_drm_not_supported">Drm not supported</string>
+    <string name="error_drm_unsupported_scheme">Drm not supported scheme</string>
+    <string name="error_drm_unknown">Drm unknown</string>
+</resources>
